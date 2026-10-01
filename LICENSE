@@ -1,0 +1,10 @@
+A^2: Smaller Self-Supervised ViTs Localize Better than Larger Ones
+Copyright (c) 2026 Sreehari Rammohan
+
+This work (the code, manifests, reference results, figures, and documentation in this
+repository) is licensed under the Creative Commons Attribution 4.0 International License
+(CC BY 4.0). To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
+(full legal code: https://creativecommons.org/licenses/by/4.0/legalcode).
+
+Datasets and pretrained model weights used by this code are not covered by this license and
+keep their own licenses and terms.
